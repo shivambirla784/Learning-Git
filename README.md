@@ -1,2 +1,2 @@
 # Learning-Git
-This repo is made for understanding git tool.
+This repo is made for understanding git and github.
